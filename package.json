@@ -1,0 +1,20 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CEREBR4L/vueing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CEREBR4L/vueing/issues"
+  },
+  "homepage": "https://github.com/CEREBR4L/vueing#readme"
+}

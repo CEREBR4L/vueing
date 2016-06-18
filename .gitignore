@@ -1,0 +1,6 @@
+# Sublime #
+###################
+*.sublime-project
+*.sublime-workspace
+
+/vue.js-bulitin/node_modules/*
