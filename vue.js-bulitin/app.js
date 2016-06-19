@@ -44,6 +44,7 @@ new Vue({
 		deleteEvent: function(index){
 			if(confirm("Are you sure you want to remove this?")){
 				this.events.$remove(index);
+				console.log("Trying to delete");
 			}
 		}
 
