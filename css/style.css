@@ -1,0 +1,48 @@
+body{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+.box{
+	display: inline-block;
+	width: 20%;
+	min-height: 225px;
+	text-align: center;
+	color: #fff;
+	background-color: #873467;
+	margin: 0 10px;
+}
+
+.box h2{
+	padding-top: 100px; 
+	font-weight: 300;
+}
+
+h1, h2{
+	margin: 0;
+	font-family: sans-serif;
+	padding: 10px;
+}
+
+nav{
+	padding: 15px;
+	margin-bottom: 20px;
+	background-color: #eee;
+}
+
+h1{
+	color: #444;
+	font-weight: 300;
+	font-size: 1.25em;
+}
+
+a{
+	text-decoration: none;
+	color: #333;
+}
+
+.cont{
+	width: 80%;
+	margin: 0 auto;
+}
