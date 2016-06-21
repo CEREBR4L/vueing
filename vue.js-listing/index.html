@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Vue Listing</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<a href="../index.html" id="home">
+	<div>
+		Back Home
+	</div>
+</a>
+
+
+<form id="main" v-cloak>
+	<div class="bar">
+		<input type="text" v-model="searchString" placeholder="Find Your City..." />
+	</div>
+
+	<ul>
+		<li v-for="i in campsites | searchFor searchString">
+			
+			<div class="location">
+				<label>City: </label>
+				<p>{{ i.city }}</p>
+			</div>
+			
+			<!-- 
+
+			Not sure if I should include this as small percentage have the data!
+			Will leave it out for now.
+
+			<div class="location">
+				<label>Region: </label>
+				<p>{{ i.region }}</p>
+			</div>
+			-->
+
+			<div class="location">
+				<label>Country: </label>
+				<p>{{ i.country}}</p>
+			</div>
+
+			<a v-bind:href="i.facebook">Facebook Page</a>
+
+		</li>
+	</ul>
+
+</form>
+
+<script src="../vue.js-bulitin/node_modules/vue/dist/vue.js"></script>
+<script src="../vue.js-bulitin/node_modules/vue-resource/dist/vue-resource.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

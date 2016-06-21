@@ -4,14 +4,17 @@ body{
 	width: 100%;
 }
 
+.bg-blue	{ background-color: #5175a5; }
+.bg-purple	{ background-color: #8d3fb9; }
+.bg-green	{ background-color: #36957b; }
+
 .box{
 	display: inline-block;
-	width: 20%;
+	width: 225px;
 	min-height: 225px;
 	text-align: center;
 	color: #fff;
-	background-color: #873467;
-	margin: 0 10px;
+	margin: 10px;
 }
 
 .box h2{
