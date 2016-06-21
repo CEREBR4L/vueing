@@ -2,7 +2,5 @@
 ###################
 *.sublime-project
 *.sublime-workspace
-
-/vue.js-bulitin/node_modules/*
-node_modules/*
 *.log
+node_modules/*
