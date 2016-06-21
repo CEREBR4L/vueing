@@ -199,9 +199,19 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.wagga/"
 		  },
 		  {
+		    "city": "Wollongong",
+		    "country": "Australia",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.wollongong/"
+		  },
+		  {
 		    "city": "Graz",
 		    "country": "Austria",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.graz/"
+		  },
+		  {
+		    "city": "Innsbruck",
+		    "country": "Austria",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.innsbruck/"
 		  },
 		  {
 		    "city": "Vienna",
@@ -347,6 +357,11 @@ var demo = new Vue ({
 		    "city": "Srebrenica",
 		    "country": "Bosnia and Herzegovina",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.srebrenica/"
+		  },
+		  {
+		    "city": "Travnik",
+		    "country": "Bosnia and Herzegovina",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.travnik/"
 		  },
 		  {
 		    "city": "Tuzla",
@@ -549,6 +564,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.juiz.de.fora/"
 		  },
 		  {
+		    "city": "Lajeado",
+		    "country": "Brazil",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.lajeado/"
+		  },
+		  {
 		    "city": "Londrina",
 		    "country": "Brazil",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.londrina/"
@@ -597,6 +617,11 @@ var demo = new Vue ({
 		    "city": "Porto Alegre",
 		    "country": "Brazil",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.porto.alegre.rs/"
+		  },
+		  {
+		    "city": "Porto Velho",
+		    "country": "Brazil",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.porto.velho/"
 		  },
 		  {
 		    "city": "Recife",
@@ -722,6 +747,11 @@ var demo = new Vue ({
 		    "city": "Phnom Penh",
 		    "country": "Cambodia",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.phnompenh.cambodia/"
+		  },
+		  {
+		    "city": "Bamenda",
+		    "country": "Cameroon",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.your.Bamenda/"
 		  },
 		  {
 		    "city": "Buea",
@@ -862,6 +892,12 @@ var demo = new Vue ({
 		    "region": "New Foundland",
 		    "country": "Canada",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.st.johns/"
+		  },
+		  {
+		    "city": "Bridgewater",
+		    "region": "Nova Scotia",
+		    "country": "Canada",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.bridgewater.ns/"
 		  },
 		  {
 		    "city": "Halifax",
@@ -1020,6 +1056,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.quebec.city/"
 		  },
 		  {
+		    "city": "Concepción",
+		    "country": "Chile",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.concepcion"
+		  },
+		  {
 		    "city": "Santiago",
 		    "country": "Chile",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.santiago/"
@@ -1158,6 +1199,11 @@ var demo = new Vue ({
 		    "city": "Xiamen",
 		    "country": "China",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.xiamen/"
+		  },
+		  {
+		    "city": "XiAn",
+		    "country": "China",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.china.xian/"
 		  },
 		  {
 		    "city": "Zhengzhou",
@@ -1825,6 +1871,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.poitiers/"
 		  },
 		  {
+		    "city": "Reims",
+		    "country": "France",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.reims/"
+		  },
+		  {
 		    "city": "Rennes",
 		    "country": "France",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.rennes/"
@@ -2045,6 +2096,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.heraklion/"
 		  },
 		  {
+		    "city": "Ioannina",
+		    "country": "Greece",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.ioannina/"
+		  },
+		  {
 		    "city": "Katerini",
 		    "country": "Greece",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.katerini/"
@@ -2208,6 +2264,12 @@ var demo = new Vue ({
 		    "region": "Chattisgarh",
 		    "country": "India",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.bilaspur/"
+		  },
+		  {
+		    "city": "Korba",
+		    "region": "Chattisgarh",
+		    "country": "India",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.korba/"
 		  },
 		  {
 		    "city": "Raipur",
@@ -2597,6 +2659,12 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.jhansi/"
 		  },
 		  {
+		    "city": "Kanpur",
+		    "region": "Uttar Pradesh",
+		    "country": "India",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.knp/"
+		  },
+		  {
 		    "city": "Lucknow",
 		    "region": "Uttar Pradesh",
 		    "country": "India",
@@ -2708,6 +2776,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.makassar/"
 		  },
 		  {
+		    "city": "Malang",
+		    "country": "Indonesia",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.malang/"
+		  },
+		  {
 		    "city": "Manado",
 		    "country": "Indonesia",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.manado/"
@@ -2731,6 +2804,11 @@ var demo = new Vue ({
 		    "city": "Pontianak",
 		    "country": "Indonesia",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.pontianak/"
+		  },
+		  {
+		    "city": "Sampit",
+		    "country": "Indonesia",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.sampit/"
 		  },
 		  {
 		    "city": "Sidoarjo",
@@ -2788,6 +2866,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.your.Urmia/"
 		  },
 		  {
+		    "city": "Yazd",
+		    "country": "Iran",
+		    "facebook": "https://www.facebook.com/groups/233850910333640/"
+		  },
+		  {
 		    "city": "Baghdad",
 		    "country": "Iraq",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.baghdad/"
@@ -2813,6 +2896,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.galway/"
 		  },
 		  {
+		    "city": "Limerick",
+		    "country": "Ireland",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.limerick/"
+		  },
+		  {
 		    "city": "Sligo",
 		    "country": "Ireland",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.sligo/"
@@ -2821,6 +2909,11 @@ var demo = new Vue ({
 		    "city": "Waterford",
 		    "country": "Ireland",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.waterford/"
+		  },
+		  {
+		    "city": "Douglas",
+		    "country": "Isle of Man",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.beer.douglas/"
 		  },
 		  {
 		    "city": "Beer Sheva",
@@ -2958,6 +3051,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.montego.bay/"
 		  },
 		  {
+		    "city": "Kobe",
+		    "country": "Japan",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.kobe/"
+		  },
+		  {
 		    "city": "Nagoya",
 		    "country": "Japan",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.nagoya/"
@@ -3063,6 +3161,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.monrovia.lr/"
 		  },
 		  {
+		    "city": "Misrata",
+		    "country": "Libya",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.misrata/"
+		  },
+		  {
 		    "city": "Tripoli",
 		    "country": "Libya",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.Tripoli.Libya/"
@@ -3166,6 +3269,11 @@ var demo = new Vue ({
 		    "city": "Aguascalientes",
 		    "country": "Mexico",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.aguascalientes/"
+		  },
+		  {
+		    "city": "Chetumal",
+		    "country": "Mexico",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.chetumal/"
 		  },
 		  {
 		    "city": "Ciudad Juárez",
@@ -3343,6 +3451,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.casablanca/"
 		  },
 		  {
+		    "city": "Fez",
+		    "country": "Morocco",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.fes/"
+		  },
+		  {
 		    "city": "Marrakesh",
 		    "country": "Morocco",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.marrakesh/"
@@ -3406,6 +3519,11 @@ var demo = new Vue ({
 		    "city": "Kathmandu",
 		    "country": "Nepal",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.kathmandu/"
+		  },
+		  {
+		    "city": "Pokhara",
+		    "country": "Nepal",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.pokhara/"
 		  },
 		  {
 		    "city": "Almere",
@@ -3518,6 +3636,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.managua/"
 		  },
 		  {
+		    "city": "Abeokuta",
+		    "country": "Nigeria",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.abeokuta/"
+		  },
+		  {
 		    "city": "Abuja",
 		    "country": "Nigeria",
 		    "facebook": "https://www.facebook.com/groups/abuja.free.code.camp/"
@@ -3546,6 +3669,11 @@ var demo = new Vue ({
 		    "city": "Ibadan",
 		    "country": "Nigeria",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.Ibadan/"
+		  },
+		  {
+		    "city": "Ile-Ife",
+		    "country": "Nigeria",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.ileife/"
 		  },
 		  {
 		    "city": "Ikeja",
@@ -3788,9 +3916,19 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/Free.Code.Camp.Lima/"
 		  },
 		  {
+		    "city": "Moquegua",
+		    "country": "Peru",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.moquegua/"
+		  },
+		  {
 		    "city": "Trujillo",
 		    "country": "Peru",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.trujillo"
+		  },
+		  {
+		    "city": "Angeles",
+		    "country": "Philippines",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.angelescity.pampanga.philippines/"
 		  },
 		  {
 		    "city": "Batangas",
@@ -3823,14 +3961,14 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.davao/"
 		  },
 		  {
+		    "city": "Iloilo",
+		    "country": "Philippines",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.iloilo.city/"
+		  },
+		  {
 		    "city": "Makati",
 		    "country": "Philippines",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.makati/"
-		  },
-		  {
-		    "city": "Malang",
-		    "country": "Philippines",
-		    "facebook": "https://www.facebook.com/groups/free.code.camp.malang/"
 		  },
 		  {
 		    "city": "Manila",
@@ -4158,6 +4296,11 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.nizhnevartovsk/"
 		  },
 		  {
+		    "city": "Noginsk",
+		    "country": "Russia",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.noginsk/"
+		  },
+		  {
 		    "city": "Novorossiysk",
 		    "country": "Russia",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.novorossiysk/"
@@ -4181,6 +4324,11 @@ var demo = new Vue ({
 		    "city": "Pavlovo",
 		    "country": "Russia",
 		    "facebook": "https://www.facebook.com/groups/Free.Code.Camp.Pavlovo/"
+		  },
+		  {
+		    "city": "Penza",
+		    "country": "Russia",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.penza/"
 		  },
 		  {
 		    "city": "Perm",
@@ -4361,6 +4509,11 @@ var demo = new Vue ({
 		    "city": "Vrsac",
 		    "country": "Serbia",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.vrsac/"
+		  },
+		  {
+		    "city": "Freetown",
+		    "country": "Sierra Leone",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.salone/"
 		  },
 		  {
 		    "city": "Singapore",
@@ -4786,6 +4939,11 @@ var demo = new Vue ({
 		    "city": "Antalya",
 		    "country": "Turkey",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.antalya/"
+		  },
+		  {
+		    "city": "Bursa",
+		    "country": "Turkey",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.bursa/"
 		  },
 		  {
 		    "city": "Isparta",
@@ -5327,6 +5485,12 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.palo.alto/"
 		  },
 		  {
+		    "city": "Placerville",
+		    "region": "California",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.placerville/"
+		  },
+		  {
 		    "city": "Pleasant Hill",
 		    "region": "California",
 		    "country": "United States",
@@ -5759,6 +5923,12 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/703656036438040"
 		  },
 		  {
+		    "city": "Rome",
+		    "region": "Georgia",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.rome.ga/"
+		  },
+		  {
 		    "city": "Savannah",
 		    "region": "Georgia",
 		    "country": "United States",
@@ -6077,6 +6247,12 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/847024098734877"
 		  },
 		  {
+		    "city": "Alexandria",
+		    "region": "Louisiana",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.alexandria.la/"
+		  },
+		  {
 		    "city": "Baton Rouge",
 		    "region": "Louisiana",
 		    "country": "United States",
@@ -6371,6 +6547,12 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.duluth/"
 		  },
 		  {
+		    "city": "Fergus Falls",
+		    "region": "Minnesota",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.fergusfalls/"
+		  },
+		  {
 		    "city": "Minneapolis",
 		    "region": "Minnesota",
 		    "country": "United States",
@@ -6593,16 +6775,34 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.flanders.nj/"
 		  },
 		  {
+		    "city": "Hoboken",
+		    "region": "New Jersey",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.hoboken/"
+		  },
+		  {
 		    "city": "Jersey City",
 		    "region": "New Jersey",
 		    "country": "United States",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.jersey.city.new.jersey/"
 		  },
 		  {
+		    "city": "McAfee",
+		    "region": "New Jersey",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.mcafee/"
+		  },
+		  {
 		    "city": "Medford",
 		    "region": "New Jersey",
 		    "country": "United States",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.medford.nj/"
+		  },
+		  {
+		    "city": "Morristown",
+		    "region": "New Jersey",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.morristown/"
 		  },
 		  {
 		    "city": "New Brunswick",
@@ -6615,6 +6815,12 @@ var demo = new Vue ({
 		    "region": "New Jersey",
 		    "country": "United States",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.newark/"
+		  },
+		  {
+		    "city": "Old Bridge",
+		    "region": "New Jersey",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.old.bridge.new.jersey/"
 		  },
 		  {
 		    "city": "Oradell",
@@ -7253,6 +7459,12 @@ var demo = new Vue ({
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.lubbock/"
 		  },
 		  {
+		    "city": "Midland",
+		    "region": "Texas",
+		    "country": "United States",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.midland/"
+		  },
+		  {
 		    "city": "Mission",
 		    "region": "Texas",
 		    "country": "United States",
@@ -7758,6 +7970,11 @@ var demo = new Vue ({
 		    "city": "Cardiff",
 		    "country": "Wales",
 		    "facebook": "https://www.facebook.com/groups/free.code.camp.cardiff/"
+		  },
+		  {
+		    "city": "Chepstow",
+		    "country": "Wales",
+		    "facebook": "https://www.facebook.com/groups/free.code.camp.chepstow/"
 		  },
 		  {
 		    "city": "Swansea",
