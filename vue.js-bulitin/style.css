@@ -1,0 +1,10 @@
+#home{
+	display: block;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #8d3fb9;
+	color: #fff;
+	padding: 15px;
+	width: 100%;
+	text-decoration: none;
+}
